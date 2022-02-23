@@ -1,0 +1,11 @@
+1. 运行DOSBox0.74-win32-installer.exe安装DOSBox
+2.参照win7_64位_汇编环境搭建_DOSbox.doc学习使用DOSBox(以下是具体操作，作用参考doc)
+   1）将Tools工具放到C:\目录下
+   2)  mount c c:\
+   3）c:\
+   4）cd Tools
+   5）参考教程完成HelloWorld编写
+         【1】编写hello.asm（除了使用DOSBox中的编辑器，也可以使用记事本）
+         【2】编译 
+         【3】链接
+         【4】运行
