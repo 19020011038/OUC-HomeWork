@@ -1,0 +1,2 @@
+Total value: 8
+Selected objects: 2 3 4
